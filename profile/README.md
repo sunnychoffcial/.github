@@ -1,12 +1,25 @@
-## Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/knppRRnG8joUE/giphy.gif" width="200" />
+    <h1 align="center">Hi IM DAYLYWEST</h1>
+    <img src="https://img.shields.io/badge/im%20broken-black?label=%F0%9F%92%94&labelColor=A081AE" title="HTML5" alt="HTML" 
+    width="100"/>&nbsp;
+    </div>
+</div>
 
-<!--
 
-**Here are some ideas to get you started:**
+### 👨‍💻 About Me :
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 📝 Im Content Creator
+
+- 🌱 I’m currently learning **DISCRD JS**
+
+
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ </div>
+</div>
+
+    
