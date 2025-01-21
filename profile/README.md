@@ -9,9 +9,12 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 Im Content Creator
+- 📝 Hi, I'm Sunny, your personal assistant ❤
 
-- 🌱 I’m currently learning **DISCRD JS**
+- 😎: https://github.com/sunnychoffcial
+- 🔵  http://dsc.gg/sunnych
+
+- 🌱 Thanks for choosing me <3
 
 
 <div align="left">
