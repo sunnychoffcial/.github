@@ -11,7 +11,7 @@
 
 - 📝 Hi, I'm Sunny, your personal assistant ❤
 
-- 😎: https://github.com/sunnychoffcial
+- 😎  https://github.com/sunnychoffcial
 - 🔵  http://dsc.gg/sunnych
 
 - 🌱 Thanks for choosing me <3
